@@ -11,4 +11,4 @@ This repository contains Jupyter notebooks demonstrating Bayesian Optimization (
 ## Getting Started
 To run the notebooks, ensure you have Python 3.7+ and install the required libraries:
 ```bash
-pip install numpy pandas scikit-learn scikit-optimize bayesian-optimization matplotlib seaborn
+pip install numpy pandas scikit-learn GPyOpt matplotlib seaborn
